@@ -1,0 +1,51 @@
+{ "frames": [
+   {
+    "filename": "Foxy2 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 60, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 60, "h": 60 },
+    "sourceSize": { "w": 60, "h": 60 },
+    "duration": 20
+   },
+   {
+    "filename": "Foxy2 1.ase",
+    "frame": { "x": 60, "y": 0, "w": 60, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 60, "h": 60 },
+    "sourceSize": { "w": 60, "h": 60 },
+    "duration": 80
+   },
+   {
+    "filename": "Foxy2 2.ase",
+    "frame": { "x": 120, "y": 0, "w": 60, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 60, "h": 60 },
+    "sourceSize": { "w": 60, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "Foxy2 3.ase",
+    "frame": { "x": 180, "y": 0, "w": 60, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 60, "h": 60 },
+    "sourceSize": { "w": 60, "h": 60 },
+    "duration": 2000
+   }
+ ],
+ "meta": {
+  "app": "https://github.com/LibreSprite/LibreSprite/",
+  "version": "1.2-973d0e3d-SDL",
+  "format": "RGBA8888",
+  "size": { "w": 240, "h": 60 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Pestañar", "opacity": 255, "blendMode": "normal" }
+  ]
+ }
+}
